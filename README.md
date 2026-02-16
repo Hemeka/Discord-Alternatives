@@ -49,6 +49,7 @@ open-source, decentralized and federated network, client-server architecture, Se
 
 [Mumble](https://www.mumble.info/)
 Open-Source, Self-hosted, true "end-to-end" encryption, dated UI
+
 ----------------------------------------------------------------
 ☁️ Centralized (Hosted by the Company)
 You rely on the provider’s servers. No public self-hosting option.
