@@ -60,10 +60,6 @@ Highest privacy
 Open source client/backend components.
 Primarily centralized hosting model.
 
-[Apoka](https://www.apoka.app/)
-Closed source.
-Central hosting only.
-
 [Echoed](https://echoed.gg/)
 Closed source.
 Centrally hosted.
@@ -73,6 +69,10 @@ Encryption of data in transit (HTTPS/TLS)
 Closed source.
 SaaS model.
 No self-hosting option.
+
+[Apoka](https://www.apoka.app/)
+Closed source.
+Central hosting only.
 
 ----------------------------------------------------------------
 Not Recommended for casual discord users
