@@ -41,6 +41,9 @@ E2EE: No
 Transport: TLS (control), AES-based encryption for voice streams
 Notes: Voice traffic is encrypted between client and server, but the server can decrypt audio. No end-to-end encryption from server operator.
 
+[XMPP](https://xmpp.org/software/?category=clients)
+decentralized and federated network, client-server architecture, Self-hostable, TLS (encryption) and SASL (authentication)
+
 
 ☁️ Centralized (Hosted by the Company)
 You rely on the provider’s servers. No public self-hosting option.
