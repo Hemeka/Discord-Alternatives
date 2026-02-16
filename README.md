@@ -42,7 +42,7 @@ Transport: TLS (control), AES-based encryption for voice streams
 Notes: Voice traffic is encrypted between client and server, but the server can decrypt audio. No end-to-end encryption from server operator.
 
 [XMPP](https://xmpp.org/software/?category=clients)
-decentralized and federated network, client-server architecture, Self-hostable, TLS (encryption) and SASL (authentication)
+open-source, decentralized and federated network, client-server architecture, Self-hostable, TLS (encryption) and SASL (authentication)
 
 
 ☁️ Centralized (Hosted by the Company)
