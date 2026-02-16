@@ -38,22 +38,22 @@ TLS/SRTP; no verified E2EE.
 
 [DCTS](https://github.com/hackthedev/dcts-shipping)
 Community-driven, typically self-hosted.
-open source.
+Open source.
 Transport encryption only.
 
 [Loqa](https://loqa.chat/)
 Open source, self-hosting, end-to-end encrypted DMs, zero telemetry.
 
 [TeamSpeak](https://www.teamspeak.com/)
-E2EE: No
-Transport: TLS (control), AES-based encryption for voice streams
+E2EE: No.
+Transport: TLS (control), AES-based encryption for voice streams.
 Notes: Voice traffic is encrypted between client and server, but the server can decrypt audio. No end-to-end encryption from server operator.
 
 [XMPP](https://xmpp.org/software/?category=clients)
-open-source, decentralized and federated network, client-server architecture, Self-hostable, TLS (encryption) and SASL (authentication)
+Open-source, decentralized and federated network, client-server architecture, Self-hostable, TLS (encryption) and SASL (authentication)
 
 [Mumble](https://www.mumble.info/)
-Open-Source, Self-hosted, true "end-to-end" encryption, dated UI, not user friendly.
+Open Source, Self-hosted, true "end-to-end" encryption, dated UI, not user friendly.
 
 ----------------------------------------------------------------
 ☁️ Centralized (Hosted by the Company)
