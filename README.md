@@ -48,7 +48,7 @@ Notes: Voice traffic is encrypted between client and server, but the server can 
 open-source, decentralized and federated network, client-server architecture, Self-hostable, TLS (encryption) and SASL (authentication)
 
 [Mumble](https://www.mumble.info/)
-Open-Source, Self-hosted, true "end-to-end" encryption, dated UI
+Open-Source, Self-hosted, true "end-to-end" encryption, dated UI, not user friendly.
 
 ----------------------------------------------------------------
 ☁️ Centralized (Hosted by the Company)
