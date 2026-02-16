@@ -38,13 +38,13 @@ Designed for self-hosting.
 Open source.
 TLS/SRTP; no verified E2EE.
 
+[Loqa](https://loqa.chat/)
+Open source, self-hosting, end-to-end encrypted DMs, zero telemetry.
+
 [DCTS](https://github.com/hackthedev/dcts-shipping)
 Community-driven, typically self-hosted.
 Open source.
 Transport encryption only.
-
-[Loqa](https://loqa.chat/)
-Open source, self-hosting, end-to-end encrypted DMs, zero telemetry.
 
 ----------------------------------------------------------------
 ☁️ Centralized (Hosted by the Company)
