@@ -67,6 +67,7 @@ Central hosting only.
 [Echoed](https://echoed.gg/)
 Closed source.
 Centrally hosted.
+Encryption of data in transit (HTTPS/TLS)
 
 [Root](https://www.rootapp.com/)
 Closed source.
