@@ -46,17 +46,6 @@ Transport encryption only.
 [Loqa](https://loqa.chat/)
 Open source, self-hosting, end-to-end encrypted DMs, zero telemetry.
 
-[TeamSpeak](https://www.teamspeak.com/)
-E2EE: No.
-Transport: TLS (control), AES-based encryption for voice streams.
-Notes: Voice traffic is encrypted between client and server, but the server can decrypt audio. No end-to-end encryption from server operator.
-
-[XMPP](https://xmpp.org/software/?category=clients)
-Open-source, decentralized and federated network, client-server architecture, Self-hostable, TLS (encryption) and SASL (authentication), not casual user friendly.
-
-[Mumble](https://www.mumble.info/)
-Open Source, Self-hosted, true "end-to-end" encryption, not casual user friendly.
-
 ----------------------------------------------------------------
 ☁️ Centralized (Hosted by the Company)
 You rely on the provider’s servers. No public self-hosting option.
@@ -88,3 +77,18 @@ Centrally hosted.
 Closed source.
 SaaS model.
 No self-hosting option.
+
+----------------------------------------------------------------
+Not Recommended for casual discord users
+
+[TeamSpeak](https://www.teamspeak.com/)
+E2EE: No.
+Transport: TLS (control), AES-based encryption for voice streams.
+Notes: Voice traffic is encrypted between client and server, but the server can decrypt audio. No end-to-end encryption from server operator. clunky UI
+
+[XMPP](https://xmpp.org/software/?category=clients)
+Open-source, decentralized and federated network, client-server architecture, Self-hostable, TLS (encryption) and SASL (authentication), not casual user friendly.
+
+[Mumble](https://www.mumble.info/)
+Open Source, Self-hosted, true "end-to-end" encryption, not casual user friendly.
+
