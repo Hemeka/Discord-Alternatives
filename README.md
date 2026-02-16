@@ -1,8 +1,8 @@
 # Discord-Alternatives
 
-As of recent Discord controversy many users seek to find a replacement for discord
-Here is somewhat a quick list you can find on the web, that would help you to get familiar with options
-Some alternatives are still in early development, so they do lack features
+As of recent Discord controversy many users seek to find a replacement for discord.
+Here is somewhat a quick list you can find on the web, that would help you to get familiar with options.
+Some alternatives are still in early development, so they do lack features.
 
 ----------------------------------------------------------------
 
