@@ -56,11 +56,6 @@ Hosted centrally.
 Claims E2EE but not publicly audited.
 Highest privacy
 
-[Secret](https://secretapp.io/)
-Closed source.
-Centralized.
-Anonymity-focused; encryption details unclear.
-
 [Nerimity](https://nerimity.com/)
 Open source client/backend components.
 Primarily centralized hosting model.
