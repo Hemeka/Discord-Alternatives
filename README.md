@@ -1,5 +1,5 @@
 # Discord-Alternatives
-Discord Alternatives Comparison
+----------------------------------------------------------------
 
 🏠 Self-Hosted (You Can Run Your Own Server)
 
