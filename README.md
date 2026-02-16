@@ -37,7 +37,7 @@ open source.
 Transport encryption only.
 
 [Loqa](https://loqa.chat/)
-Open source self-hosting end-to-end encrypted DMs, zero telemetry.
+Open source, self-hosting, end-to-end encrypted DMs, zero telemetry.
 
 [TeamSpeak](https://www.teamspeak.com/)
 E2EE: No
