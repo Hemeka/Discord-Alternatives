@@ -7,17 +7,17 @@ As time goes on, you want to use the one that doesn't slow and stagnate developm
 and doesn't take the same trajectory as discord did.
 
 ----------------------------------------------------------------
+[Kloak](https://kloak.app/)
+Closed source.
+Hosted centrally.
+E2EE for DMs.
+TLS-encrypted data in transit.
+Highest privacy✅✅✅
 
 [Fluxer](https://fluxer.app/)
 Self-hosting supported.
 Open source (AGPL).
 TLS encryption; no default E2EE yet.✅✅✅
-
-[Kloak](https://kloak.app/)
-Closed source.
-Hosted centrally.
-E2EE end-to-end encryption for DMs.
-Highest privacy✅✅✅
 
 [Stoat](https://stoat.chat/)
 Self-hostable.
