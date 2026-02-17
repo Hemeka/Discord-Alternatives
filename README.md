@@ -16,7 +16,7 @@ TLS encryption; no default E2EE yet.✅✅✅
 [Kloak](https://kloak.app/)
 Closed source.
 Hosted centrally.
-Claims E2EE but not publicly audited.
+E2EE end-to-end encryption for DMs.
 Highest privacy✅✅✅
 
 [Stoat](https://stoat.chat/)
