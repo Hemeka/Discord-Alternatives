@@ -56,7 +56,7 @@ Closed source.
 Central hosting only.
 
 [Loqa](https://loqa.chat/)
-Open source, self-hosting, end-to-end encrypted DMs, zero telemetry.
+Open source, self-hosting, E2EE encrypted DMs, zero telemetry.
 
 [Sharkord](https://sharkord.com/)
 Designed for self-hosting.
