@@ -11,45 +11,45 @@ and doesn't make the same trajectory as discord did.
 [Fluxer](https://fluxer.app/)
 Self-hosting supported.
 Open source (AGPL).
-TLS encryption; no default E2EE yet.✅
+TLS encryption; no default E2EE yet.✅✅✅
 
 [Kloak](https://kloak.app/)
 Closed source.
 Hosted centrally.
 Claims E2EE but not publicly audited.
-Highest privacy✅
+Highest privacy✅✅✅
 
 [Stoat](https://stoat.chat/)
 Self-hostable.
 Open source.
-TLS encryption; no default E2EE.✅
+TLS encryption; no default E2EE.✅✅✅
+
+[Echoed](https://echoed.gg/)✅✅
+Closed source.
+Centrally hosted.
+Encryption of data in transit (HTTPS/TLS)
 
 [Element](https://element.io/)
 Fully self-hostable via Matrix homeserver
 Federated model.
 Open source.
-Supports E2EE.✅
+Supports E2EE.✅✅
 
-[Echoed](https://echoed.gg/)
-Closed source.
-Centrally hosted.
-Encryption of data in transit (HTTPS/TLS)
-
-[Root](https://www.rootapp.com/)
+[Root](https://www.rootapp.com/)✅
 Closed source.
 SaaS model.
 No self-hosting option.
 
-[Apoka](https://www.apoka.app/)
-Closed source.
-Central hosting only.
-
-[Nerimity](https://nerimity.com/)
+[Nerimity](https://nerimity.com/)✅
 Open source client/backend components.
 Primarily centralized hosting model.
 
 ----------------------------------------------------------------
 In early development 🚧
+
+[Apoka](https://www.apoka.app/)
+Closed source.
+Central hosting only.
 
 [Loqa](https://loqa.chat/)
 Open source, self-hosting, end-to-end encrypted DMs, zero telemetry.
