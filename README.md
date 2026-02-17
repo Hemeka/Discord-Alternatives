@@ -16,35 +16,37 @@ These allow you to operate your own infrastructure and control stored data.
 Fully self-hostable via Matrix homeserver
 Federated model.
 Open source.
-Supports E2EE.
+Supports E2EE.✅
 
 [Fluxer](https://fluxer.app/)
 Self-hosting supported.
 Open source (AGPL).
-TLS encryption; no default E2EE yet.
+TLS encryption; no default E2EE yet.✅
 
 [Stoat](https://stoat.chat/)
 Self-hostable.
 Open source.
-TLS encryption; no default E2EE.
+TLS encryption; no default E2EE.✅
 
-[Spacebar](https://spacebar.chat/)
-Fully self-hostable.
-Open source.
-TLS encryption only.
+In early development 
+----------------------------------------------------------------
+[Loqa](https://loqa.chat/)
+Open source, self-hosting, end-to-end encrypted DMs, zero telemetry.
 
 [Sharkord](https://sharkord.com/)
 Designed for self-hosting.
 Open source.
 TLS/SRTP; no verified E2EE.
 
-[Loqa](https://loqa.chat/)
-Open source, self-hosting, end-to-end encrypted DMs, zero telemetry.
-
 [DCTS](https://github.com/hackthedev/dcts-shipping)
 Community-driven, typically self-hosted.
 Open source.
 Transport encryption only.
+
+[Spacebar](https://spacebar.chat/)
+Fully self-hostable.
+Open source.
+TLS encryption only.
 
 ----------------------------------------------------------------
 ☁️ Centralized (Hosted by the Company)
@@ -54,7 +56,7 @@ You rely on the provider’s servers. No public self-hosting option.
 Closed source.
 Hosted centrally.
 Claims E2EE but not publicly audited.
-Highest privacy
+Highest privacy✅
 
 [Nerimity](https://nerimity.com/)
 Open source client/backend components.
