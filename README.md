@@ -47,6 +47,10 @@ No self-hosting option.✅
 ----------------------------------------------------------------
 In early development 🚧
 
+[Concord](https://concord.digital/)
+Closed Source
+Central hosting
+
 [Apoka](https://www.apoka.app/)
 Closed source.
 Central hosting only.
