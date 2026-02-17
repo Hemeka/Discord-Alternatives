@@ -81,6 +81,7 @@ TLS encryption only.
 Designed for self-hosting.
 Open source.
 E2EE encrypted DMs
+
 ----------------------------------------------------------------
 Not Recommended for casual discord users
 
