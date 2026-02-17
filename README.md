@@ -24,10 +24,9 @@ Self-hostable.
 Open source.
 TLS encryption; no default E2EE.✅✅✅
 
-[Echoed](https://echoed.gg/)
-Closed source.
-Centrally hosted.
-Encryption of data in transit (HTTPS/TLS)✅✅
+[Nerimity](https://nerimity.com/)
+Open source client/backend components.
+Primarily centralized hosting model.✅✅✅
 
 [Element](https://element.io/)
 Fully self-hostable via Matrix homeserver
@@ -35,14 +34,15 @@ Federated model.
 Open source.
 Supports E2EE.✅✅
 
+[Echoed](https://echoed.gg/)
+Closed source.
+Centrally hosted.
+Encryption of data in transit (HTTPS/TLS)✅
+
 [Root](https://www.rootapp.com/)
 Closed source.
 SaaS model.
 No self-hosting option.✅
-
-[Nerimity](https://nerimity.com/)
-Open source client/backend components.
-Primarily centralized hosting model.✅
 
 ----------------------------------------------------------------
 In early development 🚧
