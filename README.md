@@ -8,29 +8,10 @@ and doesn't make the same trajectory as discord did.
 
 ----------------------------------------------------------------
 
-🏠 Self-Hosted (You Can Run Your Own Server)
-
-These allow you to operate your own infrastructure and control stored data.
-
-[Element](https://element.io/)
-Fully self-hostable via Matrix homeserver
-Federated model.
-Open source.
-Supports E2EE.✅
-
 [Fluxer](https://fluxer.app/)
 Self-hosting supported.
 Open source (AGPL).
 TLS encryption; no default E2EE yet.✅
-
-[Stoat](https://stoat.chat/)
-Self-hostable.
-Open source.
-TLS encryption; no default E2EE.✅
-
-----------------------------------------------------------------
-☁️ Centralized (Hosted by the Company)
-You rely on the provider’s servers. No public self-hosting option.
 
 [Kloak](https://kloak.app/)
 Closed source.
@@ -38,9 +19,16 @@ Hosted centrally.
 Claims E2EE but not publicly audited.
 Highest privacy✅
 
-[Nerimity](https://nerimity.com/)
-Open source client/backend components.
-Primarily centralized hosting model.
+[Stoat](https://stoat.chat/)
+Self-hostable.
+Open source.
+TLS encryption; no default E2EE.✅
+
+[Element](https://element.io/)
+Fully self-hostable via Matrix homeserver
+Federated model.
+Open source.
+Supports E2EE.✅
 
 [Echoed](https://echoed.gg/)
 Closed source.
@@ -55,6 +43,10 @@ No self-hosting option.
 [Apoka](https://www.apoka.app/)
 Closed source.
 Central hosting only.
+
+[Nerimity](https://nerimity.com/)
+Open source client/backend components.
+Primarily centralized hosting model.
 
 ----------------------------------------------------------------
 In early development 🚧
