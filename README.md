@@ -28,26 +28,6 @@ Self-hostable.
 Open source.
 TLS encryption; no default E2EE.✅
 
-In early development 
-----------------------------------------------------------------
-[Loqa](https://loqa.chat/)
-Open source, self-hosting, end-to-end encrypted DMs, zero telemetry.
-
-[Sharkord](https://sharkord.com/)
-Designed for self-hosting.
-Open source.
-TLS/SRTP; no verified E2EE.
-
-[DCTS](https://github.com/hackthedev/dcts-shipping)
-Community-driven, typically self-hosted.
-Open source.
-Transport encryption only.
-
-[Spacebar](https://spacebar.chat/)
-Fully self-hostable.
-Open source.
-TLS encryption only.
-
 ----------------------------------------------------------------
 ☁️ Centralized (Hosted by the Company)
 You rely on the provider’s servers. No public self-hosting option.
@@ -75,6 +55,27 @@ No self-hosting option.
 [Apoka](https://www.apoka.app/)
 Closed source.
 Central hosting only.
+
+----------------------------------------------------------------
+In early development 🚧
+
+[Loqa](https://loqa.chat/)
+Open source, self-hosting, end-to-end encrypted DMs, zero telemetry.
+
+[Sharkord](https://sharkord.com/)
+Designed for self-hosting.
+Open source.
+TLS/SRTP; no verified E2EE.
+
+[DCTS](https://github.com/hackthedev/dcts-shipping)
+Community-driven, typically self-hosted.
+Open source.
+Transport encryption only.
+
+[Spacebar](https://spacebar.chat/)
+Fully self-hostable.
+Open source.
+TLS encryption only.
 
 ----------------------------------------------------------------
 Not Recommended for casual discord users
