@@ -82,7 +82,7 @@ E2EE: No.
 Transport: TLS (control), AES-based encryption for voice streams.
 Notes: Voice traffic is encrypted between client and server, but the server can decrypt audio. No end-to-end encryption from server operator. clunky UI
 
-[XMPP](https://xmpp.org/software/?category=clients)
+[XMPP](https://github.com/processone/fluux-messenger/)
 Open-source, decentralized and federated network, client-server architecture, Self-hostable, TLS (encryption) and SASL (authentication), not casual user friendly.
 
 [Mumble](https://www.mumble.info/)
