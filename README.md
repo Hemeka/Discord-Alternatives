@@ -77,6 +77,10 @@ Fully self-hostable.
 Open source.
 TLS encryption only.
 
+[Heaven](https://github.com/ancsemi/Haven)
+Designed for self-hosting.
+Open source.
+E2EE encrypted DMs
 ----------------------------------------------------------------
 Not Recommended for casual discord users
 
