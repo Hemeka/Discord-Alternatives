@@ -74,6 +74,11 @@ Designed for self-hosting.
 Open source.
 E2EE encrypted DMs
 
+[Tensamin](https://tensamin.net/)
+E2EE.
+Open source.
+self-hosted/centralized hybrid.
+
 ----------------------------------------------------------------
 Not Recommended for casual discord users
 
