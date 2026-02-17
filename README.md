@@ -40,9 +40,9 @@ Closed source.
 SaaS model.
 No self-hosting option.✅
 
-[Nerimity](https://nerimity.com/)✅
+[Nerimity](https://nerimity.com/)
 Open source client/backend components.
-Primarily centralized hosting model.
+Primarily centralized hosting model.✅
 
 ----------------------------------------------------------------
 In early development 🚧
