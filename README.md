@@ -77,7 +77,7 @@ TLS encryption only.
 
 [Heaven](https://github.com/ancsemi/Haven)
 Designed for self-hosting.
-Open source.
+Source-available.
 E2EE encrypted DMs
 
 [Tensamin](https://tensamin.net/)
