@@ -8,7 +8,7 @@ and doesn't take the same trajectory as discord did.
 
 ----------------------------------------------------------------
 [Kloak](https://kloak.app/)
-Closed source.
+Closed source.(for now)
 Hosted centrally.
 E2EE for DMs.
 TLS-encrypted data in transit.
