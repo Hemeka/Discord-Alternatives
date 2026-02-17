@@ -87,9 +87,9 @@ Open source.
 self-hosted/centralized hybrid.
 
 [Gamevox](https://gamevox.com/)
-Closed-source
-Centralized hosting
-No encryption
+Closed-source.
+Centralized hosting.
+No encryption.
 
 ----------------------------------------------------------------
 Not Recommended for casual discord users
