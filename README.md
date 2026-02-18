@@ -11,97 +11,108 @@ Just start by inviting your friends to a better and safer longterm environment
 
 ----------------------------------------------------------------
 [Kloak](https://kloak.app/)
-Closed source(for now).
-Hosted centrally.
-E2EE for DMs.
-TLS-encrypted data in transit.
-Highest privacy✅✅✅
+Source: Closed (for now).
+Hosting: Centralized.
+Encryption: TLS in transit; E2EE for DMs (in development).
+Notes: Anonymous-style account model.
+Highest privacy.✅✅✅
 
 [Fluxer](https://fluxer.app/)
-Self-hosting supported.
-Open source (AGPL).
-TLS encryption; no default E2EE yet.✅✅✅
+Source: Open source (AGPL).
+Hosting: Self-hostable.
+Encryption: TLS in transit; no default E2EE yet.✅✅✅
 
 [Stoat](https://stoat.chat/)
-Self-hostable.
-Open source.
-TLS encryption; no default E2EE.✅✅✅
+Source: Open source.
+Hosting: Self-hostable.
+Encryption: TLS in transit; no default E2EE.✅✅✅
 
 [Nerimity](https://nerimity.com/)
-Open source client/backend components.
-Primarily centralized hosting model.✅✅✅
+Source: Open source (client + backend components).
+Hosting: Primarily centralized.
+Encryption: TLS in transit.✅✅✅
 
-[Element](https://element.io/)
-Fully self-hostable via Matrix homeserver
-Federated model.
-Open source.
-Supports E2EE.✅✅
+[Element (Matrix)](https://element.io/)
+Source: Open source.
+Hosting: Federated (Matrix); fully self-hostable.
+Encryption: E2EE supported (Matrix Olm/Megolm).✅✅
 
 [Echoed](https://echoed.gg/)
-Closed source.
-Centrally hosted.
-Encryption of data in transit (HTTPS/TLS)✅
+Source: Closed source.
+Hosting: Centralized.
+Encryption: TLS in transit.✅
 
 [Root](https://www.rootapp.com/)
-Closed source.
-SaaS model.
-No self-hosting option.✅
+Source: Closed source.
+Hosting: SaaS (centralized).
+Encryption: TLS in transit.✅
 
 ----------------------------------------------------------------
-In early development 🚧
+🚧 In early development
 
 [Concord](https://concord.digital/)
-Closed Source
-Central hosting
+Source: Closed source.
+Hosting: Centralized.
+Encryption: No verified encryption.
 
 [Apoka](https://www.apoka.app/)
-Closed source.
-Central hosting only.
+Source: Closed source.
+Hosting: Centralized.
+Encryption: TLS in transit.
 
 [Loqa](https://loqa.chat/)
-Open source, self-hosting, E2EE encrypted DMs, zero telemetry.
+Source: Closed source.
+Hosting: Centralized (self-hosting planned).
+Encryption: E2EE for DMs; TLS in transit.
+Notes: No telemetry; privacy-focused positioning.
 
 [Sharkord](https://sharkord.com/)
-Designed for self-hosting.
-Open source.
-TLS/SRTP; no verified E2EE.
+Source: Open source.
+Hosting: Self-hostable.
+Encryption: TLS (text), SRTP (voice); no verified E2EE.
 
 [DCTS](https://github.com/hackthedev/dcts-shipping)
-Community-driven, typically self-hosted.
-Open source.
-Transport encryption only.
+Source: Open source.
+Hosting: Self-hostable.
+Encryption: TLS in transit (E2EE on desktop DMs).
 
 [Spacebar](https://spacebar.chat/)
-Fully self-hostable.
-Open source.
-TLS encryption only.
+Source: Open source.
+Hosting: Fully self-hostable.
+Encryption: TLS in transit only.
 
 [Heaven](https://github.com/ancsemi/Haven)
-Designed for self-hosting.
-Source-available.
-E2EE encrypted DMs
+Source: Source-available (non-OSI license).
+Hosting: Self-hostable.
+Encryption: E2EE for DMs.
 
 [Tensamin](https://tensamin.net/)
-E2EE.
-Open source.
-self-hosted/centralized hybrid.
+Source: Open source.
+Hosting: Hybrid (self-hosted + centralized).
+Encryption: E2EE.
 
 [Gamevox](https://gamevox.com/)
-Closed-source.
-Centralized hosting.
-No encryption.
+Source: Closed source.
+Hosting: Centralized.
+Encryption: No verified encryption.
 
 ----------------------------------------------------------------
-Not Recommended for casual discord users
+⚠ Not Recommended for casual discord users
 
 [TeamSpeak](https://www.teamspeak.com/)
-E2EE: No.
-Transport: TLS (control), AES-based encryption for voice streams.
-Notes: Voice traffic is encrypted between client and server, but the server can decrypt audio. No end-to-end encryption from server operator. clunky UI
+Source: Closed source.
+Hosting: Self-hosted servers.
+Encryption: TLS (control), AES-based voice encryption.
+Notes: No true E2EE; server can decrypt voice. UI may feel dated.
 
-[XMPP](https://github.com/processone/fluux-messenger/)
-Open-source, decentralized and federated network, client-server architecture, Self-hostable, TLS (encryption) and SASL (authentication), not casual user friendly.
+[Fluxx (XMPP)](https://github.com/processone/fluux-messenger/)
+Source: Open standard / open source implementations.
+Hosting: Federated, self-hostable.
+Encryption: TLS + optional E2EE (OMEMO/OTR).
+Notes: Powerful but not casual-friendly.
 
 [Mumble](https://www.mumble.info/)
-Open Source, Self-hosted, true "end-to-end" encryption, not casual user friendly.
-
+Source: Open source (GPL).
+Hosting: Self-hosted servers.
+Encryption: TLS-encrypted client ↔ server (not true E2EE; server can decrypt audio).
+Notes: Highly secure voice transport; not casual-friendly UI.
