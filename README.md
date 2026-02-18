@@ -63,6 +63,7 @@ Just start by inviting your friends to a better and safer longterm environment
 | [TeamSpeak](https://www.teamspeak.com/) | 🔒 Closed | 🏠 Self-host | 🔐 TLS • AES voice | Server can decrypt audio |
 | [Fluux (XMPP)](https://github.com/processone/fluux-messenger/) | 🟢 Open | 🌐 Federated + self-hostable | 🔐 TLS • Optional E2EE | Not casual-friendly |
 | [Mumble](https://www.mumble.info/) | 🟢 Open | 🏠 Self-host | 🔐 TLS (Server can decrypt), Not true E2EE | Not casual-friendly |
+| [Halloy (IRC)](https://halloy.chat/) | 🟢 Open | 🏠 Self-host | 🔐 TLS | Not casual-friendly |
 
 ----------------------------------------------------------------
 [Kloak](https://kloak.app/) ✅✅✅   
@@ -171,6 +172,12 @@ Source: Open source (GPL).
 Hosting: Self-hosted servers.  
 Encryption: TLS-encrypted client ↔ server (not true E2EE; server can decrypt audio).  
 Notes: Highly secure voice transport; not casual-friendly UI.  
+
+[Halloy (IRC)](https://halloy.chat/)  
+Source: Open Source (GPL-3.0).  
+Hosting: IRC is self-hostable (run your own IRC server) or use public networks; Halloy itself is a client only.  
+Encryption: TLS in transit (depends on IRC server support).  
+Notes: Powerful but not casual-friendly.  
 
 ----------------------------------------------------------------
 ## Other sources  
