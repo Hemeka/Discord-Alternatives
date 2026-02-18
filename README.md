@@ -65,42 +65,42 @@ Just start by inviting your friends to a better and safer longterm environment
 | [Mumble](https://www.mumble.info/) | 🟢 Open | 🏠 Self-host | 🔐 TLS (Server can decrypt), Not true E2EE | Not casual-friendly |
 
 ----------------------------------------------------------------
-[Kloak](https://kloak.app/)  
+[Kloak](https://kloak.app/) ✅✅✅   
 Source: Closed (for now).  
 Hosting: Centralized.  
 Encryption: TLS in transit; E2EE for DMs (in development).  
 Notes: Anonymous-style account model.  
-Highest privacy.✅✅✅  
+Highest privacy.  
 
-[Fluxer](https://fluxer.app/)  
+[Fluxer](https://fluxer.app/) ✅✅✅  
 Source: Open source (AGPL).  
 Hosting: Self-hostable.  
-Encryption: TLS in transit; no default E2EE yet.✅✅✅  
+Encryption: TLS in transit; no default E2EE yet.  
 
-[Stoat](https://stoat.chat/)  
+[Stoat](https://stoat.chat/) ✅✅  
 Source: Open source.  
 Hosting: Self-hostable.  
-Encryption: TLS in transit; no default E2EE.✅✅  
+Encryption: TLS in transit; no default E2EE.  
 
-[Nerimity](https://nerimity.com/)  
+[Nerimity](https://nerimity.com/) ✅✅  
 Source: Open source (client + backend components).  
 Hosting: Primarily centralized.  
-Encryption: TLS in transit.✅✅  
+Encryption: TLS in transit.  
 
-[Element (Matrix)](https://element.io/)  
+[Element (Matrix)](https://element.io/) ✅✅  
 Source: Open source.  
 Hosting: Federated (Matrix); fully self-hostable.  
-Encryption: E2EE supported (Matrix Olm/Megolm).✅✅  
+Encryption: E2EE supported (Matrix Olm/Megolm).  
 
-[Echoed](https://echoed.gg/)  
+[Echoed](https://echoed.gg/) ☑️  
 Source: Closed source.  
 Hosting: Centralized.  
-Encryption: TLS in transit.☑️  
+Encryption: TLS in transit.  
 
-[Root](https://www.rootapp.com/)  
+[Root](https://www.rootapp.com/) ⚠️❗  
 Source: Closed source.  
 Hosting: SaaS (centralized).  
-Encryption: TLS in transit.⚠️❗  
+Encryption: TLS in transit.  
 
 ----------------------------------------------------------------
 🚧 In early development  
