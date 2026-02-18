@@ -174,5 +174,5 @@ Notes: Highly secure voice transport; not casual-friendly UI.
 
 ----------------------------------------------------------------
 ## Other sources  
-[discordless.com](https://discordless.com/).  
+[discordless.com](https://discordless.com/)  
 [Free and OpenSource Self-Hosted Discord Alternatives](https://github.com/Vigno04/discord-selfhosted-alternatives)  
