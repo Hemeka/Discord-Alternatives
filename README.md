@@ -140,3 +140,28 @@ Notes: Highly secure voice transport; not casual-friendly UI.
 | [TeamSpeak](https://www.teamspeak.com/) | Closed source | Self-hosted servers | TLS (control), AES voice | Server can decrypt audio |
 | [Fluux (XMPP)](https://github.com/processone/fluux-messenger/) | Open standard / open source | Federated + self-hostable | TLS + optional E2EE (OMEMO/OTR) | Not casual-friendly |
 | [Mumble](https://www.mumble.info/) | Open source (GPL) | Self-hosted servers | TLS client ↔ server | Not true E2EE |
+
+## 🔎 Quick Comparison (Minimal View)
+
+| App | Source | Hosting | Encryption |
+|-----|--------|---------|------------|
+| [Kloak](https://kloak.app/) | 🔒 Closed | ☁ Centralized | 🔐 TLS • E2EE (DMs – WIP) |
+| [Fluxer](https://fluxer.app/) | 🟢 Open (AGPL) | 🏠 Self-host | 🔐 TLS |
+| [Stoat](https://stoat.chat/) | 🟢 Open | 🏠 Self-host | 🔐 TLS |
+| [Nerimity](https://nerimity.com/) | 🟢 Open (partial) | ☁ Centralized | 🔐 TLS |
+| [Element](https://element.io/) | 🟢 Open | 🌐 Federated + Self-host | 🔐 Full E2EE |
+| [Echoed](https://echoed.gg/) | 🔒 Closed | ☁ Centralized | 🔐 TLS |
+| [Root](https://www.rootapp.com/) | 🔒 Closed | ☁ SaaS | 🔐 TLS |
+| [Concord](https://concord.digital/) | 🔒 Closed | ☁ Centralized | ❓ Unverified |
+| [Apoka](https://www.apoka.app/) | 🔒 Closed | ☁ Centralized | 🔐 TLS |
+| [Loqa](https://loqa.chat/) | 🔒 Closed | ☁ Centralized | 🔐 E2EE (DMs) |
+| [Sharkord](https://sharkord.com/) | 🟢 Open | 🏠 Self-host | 🔐 TLS • SRTP |
+| [DCTS](https://github.com/hackthedev/dcts-shipping) | 🟢 Open | 🏠 Self-host | 🔐 TLS • Partial E2EE |
+| [Spacebar](https://spacebar.chat/) | 🟢 Open | 🏠 Self-host | 🔐 TLS |
+| [Haven](https://github.com/ancsemi/Haven) | 📄 Source-available | 🏠 Self-host | 🔐 E2EE (DMs) |
+| [Tensamin](https://tensamin.net/) | 🟢 Open | 🔄 Hybrid | 🔐 E2EE |
+| [GameVox](https://gamevox.com/) | 🔒 Closed | ☁ Centralized | ❌ None verified |
+| [TeamSpeak](https://www.teamspeak.com/) | 🔒 Closed | 🏠 Self-host | 🔐 TLS • AES voice |
+| [Fluux (XMPP)](https://github.com/processone/fluux-messenger/) | 🟢 Open | 🌐 Federated | 🔐 TLS • Optional E2EE |
+| [Mumble](https://www.mumble.info/) | 🟢 Open | 🏠 Self-host | 🔐 TLS (Server can decrypt) |
+
