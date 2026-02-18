@@ -9,22 +9,6 @@ and doesn't take the same trajectory as discord did.
 Tip, you don't have to abandon discord if you have large communities  
 Just start by inviting your friends to a better and safer longterm environment.   
 
-✅ = Recommended  
-⚠️❗ = Not Recommended  
-☑️ = Other Alternatives  
-⚠ = Not Recommended for casual discord users  
-🟢 Open = Open source  
-🔒 Closed = Proprietary  
-📄 Source-available = Not OSI open source  
-🏠 Self-host = You run your own server  
-☁ Centralized = Company-hosted  
-🌐 Federated = Decentralized network  
-🔄 Hybrid = Both models  
-🔐 TLS = Encrypted in transit only  
-🔐 Full E2EE = True end-to-end encryption  
-❌ None = No verified encryption  
-❓ Unverified = Not publicly documented  
-
 ----------------------------------------------------------------
 ## 🔎 Quick Comparison
 
@@ -65,6 +49,23 @@ Just start by inviting your friends to a better and safer longterm environment.
 | [Fluux (XMPP)](https://github.com/processone/fluux-messenger/) | 🟢 Open | 🌐 Federated + self-hostable | 🔐 TLS • Optional E2EE | Not casual-friendly |
 | [Mumble](https://www.mumble.info/) | 🟢 Open | 🏠 Self-host | 🔐 TLS (Server can decrypt), Not true E2EE | Not casual-friendly |
 | [Halloy (IRC)](https://halloy.chat/) | 🟢 Open | 🏠 Self-host | 🔐 TLS | Not casual-friendly |
+
+----------------------------------------------------------------
+✅ = Recommended  
+⚠️❗ = Not Recommended  
+☑️ = Other Alternatives  
+⚠ = Not Recommended for casual discord users  
+🟢 Open = Open source  
+🔒 Closed = Proprietary  
+📄 Source-available = Not OSI open source  
+🏠 Self-host = You run your own server  
+☁ Centralized = Company-hosted  
+🌐 Federated = Decentralized network  
+🔄 Hybrid = Both models  
+🔐 TLS = Encrypted in transit only  
+🔐 Full E2EE = True end-to-end encryption  
+❌ None = No verified encryption  
+❓ Unverified = Not publicly documented  
 
 ----------------------------------------------------------------
 ## Other sources  
