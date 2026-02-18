@@ -70,27 +70,27 @@ Source: Closed (for now).
 Hosting: Centralized.  
 Encryption: TLS in transit; E2EE for DMs (in development).  
 Notes: Anonymous-style account model.  
-Highest privacy.✅✅✅✅✅  
+Highest privacy.✅✅✅  
 
 [Fluxer](https://fluxer.app/)  
 Source: Open source (AGPL).  
 Hosting: Self-hostable.  
-Encryption: TLS in transit; no default E2EE yet.✅✅✅✅  
+Encryption: TLS in transit; no default E2EE yet.✅✅✅  
 
 [Stoat](https://stoat.chat/)  
 Source: Open source.  
 Hosting: Self-hostable.  
-Encryption: TLS in transit; no default E2EE.✅✅✅  
+Encryption: TLS in transit; no default E2EE.✅✅  
 
 [Nerimity](https://nerimity.com/)  
 Source: Open source (client + backend components).  
 Hosting: Primarily centralized.  
-Encryption: TLS in transit.✅✅✅  
+Encryption: TLS in transit.✅✅  
 
 [Element (Matrix)](https://element.io/)  
 Source: Open source.  
 Hosting: Federated (Matrix); fully self-hostable.  
-Encryption: E2EE supported (Matrix Olm/Megolm).✅✅✅  
+Encryption: E2EE supported (Matrix Olm/Megolm).✅✅  
 
 [Echoed](https://echoed.gg/)  
 Source: Closed source.  
