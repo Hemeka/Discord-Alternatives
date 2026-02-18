@@ -135,13 +135,13 @@ Notes: Highly secure voice transport; not casual-friendly UI.
 
 | App | Source | Hosting | Encryption | Notes |
 |-----|--------|---------|------------|------------|
-| [Kloak](https://kloak.app/) | 🔒 Closed (for now) | ☁ Centralized | 🔐 TLS • E2EE (DMs – WIP) | Anonymous-style accounts |
-| [Fluxer](https://fluxer.app/) | 🟢 Open (AGPL) | 🏠 Self-hostable | 🔐 TLS | Privacy-focused, no default E2EE |
-| [Stoat](https://stoat.chat/) | 🟢 Open | 🏠 Self-hostable | 🔐 TLS | Community-driven, no default E2EE |
-| [Nerimity](https://nerimity.com/) | 🟢 Open (partial) | ☁ Centralized | 🔐 TLS | — |
+| [Kloak](https://kloak.app/) ✅ | 🔒 Closed (for now) | ☁ Centralized | 🔐 TLS • E2EE (DMs – WIP) | Anonymous-style accounts |
+| [Fluxer](https://fluxer.app/) ✅ | 🟢 Open (AGPL) | 🏠 Self-hostable | 🔐 TLS | Privacy-focused, no default E2EE |
+| [Stoat](https://stoat.chat/) ✅ | 🟢 Open | 🏠 Self-hostable | 🔐 TLS | Community-driven, no default E2EE |
+| [Nerimity](https://nerimity.com/) | 🟢 Open (partial) | ☁ Centralized | 🔐 TLS | Hobby project |
 | [Element (Matrix)](https://element.io/) | 🟢 Open | 🌐 Federated + Self-hostable | 🔐 Full E2EE (Olm/Megolm) | Strong decentralization |
 | [Echoed](https://echoed.gg/) | 🔒 Closed | ☁ Centralized | 🔐 TLS | No E2EE |
-| [Root](https://www.rootapp.com/) | 🔒 Closed | ☁ SaaS | 🔐 TLS | No E2EE, Collects user data |
+| [Root](https://www.rootapp.com/) ⚠️❗ | 🔒 Closed | ☁ SaaS | 🔐 TLS | No E2EE, Collects user data |
 | [Concord](https://concord.digital/) | 🔒 Closed | ☁ Centralized | ❓ Unverified | Early development |
 | [Apoka](https://www.apoka.app/) | 🔒 Closed | ☁ Centralized | 🔐 TLS | Early development |
 | [Loqa](https://loqa.chat/) | 🔒 Closed | ☁ Centralized self-hosting WIP | 🔐 TLS • E2EE (DMs) | No telemetry |
@@ -156,5 +156,5 @@ Notes: Highly secure voice transport; not casual-friendly UI.
 | [Mumble](https://www.mumble.info/) | 🟢 Open | 🏠 Self-host | 🔐 TLS (Server can decrypt), Not true E2EE | Not casual-friendly |
 
 ----------------------------------------------------------------
-[discordless.com](https://discordless.com/)
+[discordless.com](https://discordless.com/).
 [Free and OpenSource Self-Hosted Discord Alternatives](https://github.com/Vigno04/discord-selfhosted-alternatives)
