@@ -11,8 +11,8 @@ Just start by inviting your friends to a better and safer longterm environment
 
 ✅ = Recommended  
 ⚠️❗ = Not Recommended  
-☑️ = Other Alternatives 
-⚠ = Not Recommended for casual discord users
+☑️ = Other Alternatives  
+⚠ = Not Recommended for casual discord users  
 🟢 Open = Open source  
 🔒 Closed = Proprietary 
 📄 Source-available = Not OSI open source  
