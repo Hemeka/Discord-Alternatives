@@ -71,3 +71,4 @@ Just start by inviting your friends to a better and safer longterm environment.
 ## Other sources  
 [discordless.com](https://discordless.com/)  
 [Free and OpenSource Self-Hosted Discord Alternatives](https://github.com/Vigno04/discord-selfhosted-alternatives)  
+[alternativeto.net](https://alternativeto.net/software/discord-app/)
