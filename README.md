@@ -14,7 +14,7 @@ Just start by inviting your friends to a better and safer longterm environment
 ☑️ = Other Alternatives  
 ⚠ = Not Recommended for casual discord users  
 🟢 Open = Open source  
-🔒 Closed = Proprietary 
+🔒 Closed = Proprietary  
 📄 Source-available = Not OSI open source  
 🏠 Self-host = You run your own server  
 ☁ Centralized = Company-hosted  
