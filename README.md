@@ -22,7 +22,7 @@ Just start by inviting your friends to a better and safer longterm environment.
 
 ## ☑️ Other Alternatives
 | App | Source | Hosting | Encryption | Notes |
-|-----|--------|---------|------------|------------|
+|-|--------|---------|------------|------------|
 | [Nerimity](https://nerimity.com/) | 🟢 Open (partial) | ☁ Centralized | 🔐 TLS | Hobby project |
 | [Element (Matrix)](https://element.io/) | 🟢 Open | 🌐 Federated + Self-hostable | 🔐 Full E2EE (Olm/Megolm) | Strong decentralization |
 | [Echoed](https://echoed.gg/) | 🔒 Closed | ☁ Centralized | 🔐 TLS | No E2EE |
