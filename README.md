@@ -30,23 +30,23 @@ Just start by inviting your friends to a better and safer longterm environment
 
 ## ✅ Recommended
 | App | Source | Hosting | Encryption | Notes |
-|-----|--------|---------|------------|------------|
-| [Kloak](https://kloak.app/) ✅ | 🔒 Closed (for now) | ☁ Centralized | 🔐 TLS • E2EE (DMs – WIP) | Anonymous-style accounts |
-| [Fluxer](https://fluxer.app/) ✅ | 🟢 Open (AGPL) | 🏠 Self-hostable | 🔐 TLS | Privacy-focused, no default E2EE |
-| [Stoat](https://stoat.chat/) ✅ | 🟢 Open | 🏠 Self-hostable | 🔐 TLS | Community-driven, no default E2EE |
+|------|--------|---------|------------|------------|
+| [Kloak](https://kloak.app/)✅ | 🔒 Closed (for now) | ☁ Centralized | 🔐 TLS • E2EE (DMs – WIP) | Anonymous-style accounts |
+| [Fluxer](https://fluxer.app/)✅ | 🟢 Open (AGPL) | 🏠 Self-hostable | 🔐 TLS | Privacy-focused, no default E2EE |
+| [Stoat](https://stoat.chat/)✅ | 🟢 Open | 🏠 Self-hostable | 🔐 TLS | Community-driven, no default E2EE |
 
 
 ## ☑️ Other Alternatives
 | App | Source | Hosting | Encryption | Notes |
-|-----|--------|---------|------------|------------|
+|------|--------|---------|------------|------------|
 | [Nerimity](https://nerimity.com/) | 🟢 Open (partial) | ☁ Centralized | 🔐 TLS | Hobby project |
 | [Element (Matrix)](https://element.io/) | 🟢 Open | 🌐 Federated + Self-hostable | 🔐 Full E2EE (Olm/Megolm) | Strong decentralization |
 | [Echoed](https://echoed.gg/) | 🔒 Closed | ☁ Centralized | 🔐 TLS | No E2EE |
-| [Root](https://www.rootapp.com/) ⚠️❗ | 🔒 Closed | ☁ SaaS | 🔐 TLS | No E2EE, Collects user data |
+| [Root](https://www.rootapp.com/)⚠️❗ | 🔒 Closed | ☁ SaaS | 🔐 TLS | No E2EE, Collects user data |
 
 ## 🚧 In early development
 | App | Source | Hosting | Encryption | Notes |
-|-----|--------|---------|------------|------------|
+|------|--------|---------|------------|------------|
 | [Concord](https://concord.digital/) | 🔒 Closed | ☁ Centralized | ❓ Unverified | Early development |
 | [Apoka](https://www.apoka.app/) | 🔒 Closed | ☁ Centralized | 🔐 TLS | Early development |
 | [Loqa](https://loqa.chat/) | 🔒 Closed | ☁ Centralized self-hosting WIP | 🔐 TLS • E2EE (DMs) | No telemetry |
@@ -59,7 +59,7 @@ Just start by inviting your friends to a better and safer longterm environment
 
 ##  ⚠ Not Recommended for casual discord users
 | App | Source | Hosting | Encryption | Notes |
-|-----|--------|---------|------------|------------|
+|------|--------|---------|------------|------------|
 | [TeamSpeak](https://www.teamspeak.com/) | 🔒 Closed | 🏠 Self-host | 🔐 TLS • AES voice | Server can decrypt audio |
 | [Fluux (XMPP)](https://github.com/processone/fluux-messenger/) | 🟢 Open | 🌐 Federated + self-hostable | 🔐 TLS • Optional E2EE | Not casual-friendly |
 | [Mumble](https://www.mumble.info/) | 🟢 Open | 🏠 Self-host | 🔐 TLS (Server can decrypt), Not true E2EE | Not casual-friendly |
