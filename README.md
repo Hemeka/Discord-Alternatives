@@ -116,3 +116,27 @@ Source: Open source (GPL).
 Hosting: Self-hosted servers.
 Encryption: TLS-encrypted client ↔ server (not true E2EE; server can decrypt audio).
 Notes: Highly secure voice transport; not casual-friendly UI.
+
+----------------------------------------------------------------
+
+| App | Source | Hosting Model | Encryption | Notes |
+|-----|--------|--------------|------------|-------|
+| [Kloak](https://kloak.app/) | Closed (for now) | Centralized | TLS in transit; E2EE DMs (in development) | Anonymous-style accounts |
+| [Fluxer](https://fluxer.app/) | Open source (AGPL) | Self-hostable | TLS in transit; no default E2EE | Privacy-focused |
+| [Stoat](https://stoat.chat/) | Open source | Self-hostable | TLS in transit; no default E2EE | Community-driven |
+| [Nerimity](https://nerimity.com/) | Open source (partial components) | Primarily centralized | TLS in transit | — |
+| [Element (Matrix)](https://element.io/) | Open source | Federated + self-hostable | Full E2EE support (Olm/Megolm) | Strong decentralization |
+| [Echoed](https://echoed.gg/) | Closed source | Centralized | TLS in transit | — |
+| [Root](https://www.rootapp.com/) | Closed source | SaaS (centralized) | TLS in transit | Collects user data |
+| [Concord](https://concord.digital/) | Closed source | Centralized | No verified encryption | Early development |
+| [Apoka](https://www.apoka.app/) | Closed source | Centralized | TLS in transit | Early development |
+| [Loqa](https://loqa.chat/) | Closed source | Centralized (self-hosting planned) | E2EE DMs; TLS in transit | No telemetry |
+| [Sharkord](https://sharkord.com/) | Open source | Self-hostable | TLS (text), SRTP (voice) | No verified E2EE |
+| [DCTS](https://github.com/hackthedev/dcts-shipping) | Open source | Self-hostable | TLS; E2EE on desktop DMs | Community-driven |
+| [Spacebar](https://spacebar.chat/) | Open source | Fully self-hostable | TLS only | — |
+| [Haven](https://github.com/ancsemi/Haven) | Source-available | Self-hostable | E2EE DMs | Non-OSI license |
+| [Tensamin](https://tensamin.net/) | Open source | Hybrid (self + central) | E2EE | — |
+| [GameVox](https://gamevox.com/) | Closed source | Centralized | No verified encryption | — |
+| [TeamSpeak](https://www.teamspeak.com/) | Closed source | Self-hosted servers | TLS (control), AES voice | Server can decrypt audio |
+| [Fluux (XMPP)](https://github.com/processone/fluux-messenger/) | Open standard / open source | Federated + self-hostable | TLS + optional E2EE (OMEMO/OTR) | Not casual-friendly |
+| [Mumble](https://www.mumble.info/) | Open source (GPL) | Self-hosted servers | TLS client ↔ server | Not true E2EE |
