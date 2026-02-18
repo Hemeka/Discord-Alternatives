@@ -40,7 +40,7 @@ Just start by inviting your friends to a better and safer longterm environment.
 | [Haven](https://github.com/ancsemi/Haven) | 📄 Source-available | 🏠 Self-hostable | 🔐 E2EE (DMs) | Non-OSI license |
 | [Tensamin](https://tensamin.net/) | 🟢 Open | 🔄 Hybrid | 🔐 E2EE | Hybrid (self + central) |
 | [GameVox](https://gamevox.com/) | 🔒 Closed | ☁ Centralized | ❌ None verified | Early development |
-| [Uncord](https://uncord.chat/) | 🟢 Open | 🏠 Self-hostable | ❌ None verified | Early development |
+| [Uncord](https://uncord.chat/) | 🟢 Open | 🏠 Self-hostable | ❓ Unverified | Early development |
 
 ##  ⚠ Not Recommended for casual discord users
 | App | Source | Hosting | Encryption | Notes |
