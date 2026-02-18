@@ -77,7 +77,7 @@ Source: Open source (AGPL).
 Hosting: Self-hostable.  
 Encryption: TLS in transit; no default E2EE yet.  
 
-[Stoat](https://stoat.chat/) ✅✅  
+[Stoat](https://stoat.chat/) ✅✅✅  
 Source: Open source.  
 Hosting: Self-hostable.  
 Encryption: TLS in transit; no default E2EE.  
