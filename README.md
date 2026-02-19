@@ -41,6 +41,9 @@ Just start by inviting your friends to a better and safer longterm environment.
 | [Tensamin](https://tensamin.net/) | 🟢 Open | 🔄 Hybrid | 🔐 E2EE | Hybrid (self + central) |
 | [GameVox](https://gamevox.com/) | 🔒 Closed | ☁ Centralized | ❌ None verified | Early development |
 | [Uncord](https://uncord.chat/) | 🟢 Open | 🏠 Self-hostable | ❓ Unverified | Early development |
+| [Voltagechat](https://voltagechat.app/) | 🟢 Open | 🌐 Federated | 🔐 TLS • E2EE | Asks for age verification | 
+| [Valour](https://valour.gg/) | 🟢 Open | ☁ Centralized | ❓ Unverified | Early development | 
+| [Silenced](https://silenced.app/) | 🔒 Closed  | ☁ Centralized | 🔐 E2EE | Early development | 
 
 ##  ⚠ Not Recommended for casual discord users
 | App | Source | Hosting | Encryption | Notes |
