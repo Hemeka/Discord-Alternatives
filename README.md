@@ -80,7 +80,7 @@ I do wish them goodluck, but I will hold back from donating for now
 And lastly the most inovative and promising one Kloak,  
 appearing this January, Swedish founder, european indie team, hosted in France servers, they go by totally 180 philosophy than discord, being completely anonymous and private  messaging app, that never asks for your email, phone, id nor password.  
 having a great and useful things like your personal Notes feature (ever made a personal server for keeping notes on discord?) yeah that, but now it is even better  
-Revamped media channels!, horizontal servers!, daily updates,  with desktop app coming this March!  
+Revamped seamless intuitive UI, media channels!(for them image boards), horizontal servers!, daily updates,  with desktop app coming this March!  
 
 ----------------------------------------------------------------
 ## Other sources  
