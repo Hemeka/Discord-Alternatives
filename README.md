@@ -80,7 +80,7 @@ Starting with Stoat, European-based it has been longer than the other two, but b
 Second is Fluxer, solo-developed by a Swedish university student appearing very quickly since discord announcement of id verifications, at first glance it is way more polished   looking and does seem to be a great alternative, but being a bit sceptic here due to a big amount of monetization from the day 1, e.g. Plutonium, Donations, Founder tier  
 I do wish them goodluck, but would hold back from donating for now  
 
-And lastly the most inovative and promising one [Kloak](https://www.youtube.com/watch?v=Az2Yf8_oYSU),  
+And lastly the most inovative and promising one Kloak,  [https://www.youtube.com/watch?v=Az2Yf8_oYSU](https://www.youtube.com/watch?v=Az2Yf8_oYSU)
 appearing this January, Swedish founder, european indie team, hosted in France servers, they go by totally 180 philosophy than discord, being completely anonymous and private  messaging app, that never asks for your email, phone, id nor password.  
 having a great and useful things like  
 Revamped seamless intuitive UI, media channels!(for them image boards), horizontal servers!, daily updates,  with desktop app coming this March!  
