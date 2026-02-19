@@ -19,13 +19,12 @@ Just start by inviting your friends to a better and safer longterm environment.
 | [Fluxer](https://fluxer.app/)✅ | 🟢 Open (AGPL) | 🏠 Self-hostable | 🔐 TLS | Privacy-focused, no default E2EE |
 | [Stoat](https://stoat.chat/)✅ | 🟢 Open | 🏠 Self-hostable | 🔐 TLS | Community-driven, no default E2EE |
 
-
 ## ☑️ Other Alternatives
 | App | Source | Hosting | Encryption | Notes |
 |------|--------|---------|------------|------------|
 | [Nerimity](https://nerimity.com/) | 🟢 Open (partial) | ☁ Centralized | 🔐 TLS | Hobby project |
-| [Element (Matrix)](https://element.io/) | 🟢 Open | 🌐 Federated + Self-hostable | 🔐 Full E2EE (Olm/Megolm) | Strong decentralization |
-| [Echoed](https://echoed.gg/) | 🔒 Closed | ☁ Centralized | 🔐 TLS | No E2EE |
+| [DCTS](https://github.com/hackthedev/dcts-shipping) | 🟢 Open | 🏠 Self-hostable | 🔐 TLS • E2EE on desktop DMs | Community-driven |
+| [Element (Matrix)](https://element.io/) | 🟢 Open | 🌐 Federated + Self-hostable | 🔐 Full E2EE (Olm/Megolm) | Not casual-friendly |
 | [Root](https://www.rootapp.com/)⚠️❗ | 🔒 Closed | ☁ SaaS | 🔐 TLS | No E2EE, Collects user data |
 
 ## 🚧 In early development
@@ -35,7 +34,7 @@ Just start by inviting your friends to a better and safer longterm environment.
 | [Apoka](https://www.apoka.app/) | 🔒 Closed | ☁ Centralized | 🔐 TLS | Early development |
 | [Loqa](https://loqa.chat/) | 🔒 Closed | ☁ Centralized self-hosting WIP | 🔐 TLS • E2EE (DMs) | No telemetry |
 | [Sharkord](https://sharkord.com/) | 🟢 Open | 🏠 Self-hostable | 🔐 TLS (text) • SRTP (voice) | No verified E2EE |
-| [DCTS](https://github.com/hackthedev/dcts-shipping) | 🟢 Open | 🏠 Self-hostable | 🔐 TLS • E2EE on desktop DMs | Community-driven |
+| [Echoed](https://echoed.gg/) | 🔒 Closed | ☁ Centralized | 🔐 TLS | No E2EE |
 | [Spacebar](https://spacebar.chat/) | 🟢 Open | 🏠 Self-hostable | 🔐 TLS | Early development |
 | [Haven](https://github.com/ancsemi/Haven) | 📄 Source-available | 🏠 Self-hostable | 🔐 E2EE (DMs) | Non-OSI license |
 | [Tensamin](https://tensamin.net/) | 🟢 Open | 🔄 Hybrid | 🔐 E2EE | Hybrid (self + central) |
