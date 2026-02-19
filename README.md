@@ -65,7 +65,22 @@ Just start by inviting your friends to a better and safer longterm environment.
 🔐 TLS = Encrypted in transit only  
 🔐 Full E2EE = True end-to-end encryption  
 ❌ None = No verified encryption  
-❓ Unverified = Not publicly documented  
+❓ Unverified = Not publicly documented 
+
+----------------------------------------------------------------
+
+Couple of personal thoughts  
+Reviewing the list, the top contenders seems to be Kloak, Fluxer and Stoat  
+
+Starting with Stoat, European-based it has been longer than the other two, but because it is community driven project the updates and features do take longer to be implemented, resulting in slower development.  
+
+Second is Fluxer, solo-developed by a Swedish university student appearing very quickly since discord announcement of id verifications, at first glance it is way more polished   looking and does seem to be a great alternative, but being a bit sceptic here due to a big amount of monetization from the day 1, e.g. Plutonium, Donations, Founder tier  
+I do wish them goodluck, but I will hold back from donating for now  
+
+And lastly the most inovative and promising one Kloak,  
+appearing this January, Swedish founder, european indie team, hosted in France servers, they go by totally 180 philosophy than discord, being completely anonymous and private  messaging app, that never asks for your email, phone, id nor password.  
+having a great and useful things like your personal Notes feature (ever made a personal server for keeping notes on discord?) yeah that, but now it is even better  
+Revamped media channels!, horizontal servers!, daily updates,  with desktop app coming this March!  
 
 ----------------------------------------------------------------
 ## Other sources  
