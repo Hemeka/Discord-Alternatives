@@ -76,7 +76,7 @@ Reviewing the list, the top contenders seems to be Kloak, Fluxer and Stoat
 
 Starting with Stoat, European-based it has been longer than the other two, but because it is community driven project the updates and features do take longer to be implemented, resulting in slower development.  
 
-Second is Fluxer, solo-developed by a Swedish university student appearing very quickly since discord announcement of id verifications, at first glance it is way more polished   looking and does seem to be a great alternative, but being a bit sceptic here due to a big amount of monetization from the day 1, e.g. Plutonium, Donations, Founder tier  
+Second is Fluxer, solo-developed(Vibecoded) by a Swedish university student appearing very quickly since discord announcement of id verifications, at first glance it is way more polished   looking and does seem to be a great alternative, but being a bit sceptic here due to a big amount of monetization from the day 1, e.g. Plutonium, Donations, Founder tier  
 I do wish them goodluck, but would hold back from donating for now  
 
 And lastly the most inovative and promising one Kloak,  [https://www.youtube.com/watch?v=Az2Yf8_oYSU](https://www.youtube.com/watch?v=Az2Yf8_oYSU)
