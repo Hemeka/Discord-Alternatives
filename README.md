@@ -24,8 +24,12 @@ Just start by inviting your friends to a better and safer longterm environment.
 |------|--------|---------|------------|------------|
 | [Nerimity](https://nerimity.com/) | 🟢 Open (partial) | ☁ Centralized | 🔐 TLS | Hobby project |
 | [DCTS](https://github.com/hackthedev/dcts-shipping) | 🟢 Open | 🏠 Self-hostable | 🔐 TLS • E2EE on desktop DMs | Community-driven |
-| [Element (Matrix)](https://element.io/) | 🟢 Open | 🌐 Federated + Self-hostable | 🔐 Full E2EE (Olm/Megolm) | Not casual-friendly |
-| [Root](https://www.rootapp.com/)⚠️❗ | 🔒 Closed | ☁ SaaS | 🔐 TLS | No E2EE, Collects user data |
+
+## 🛑❗ Not Recommended
+| App | Source | Hosting | Encryption | Notes |
+|------|--------|---------|------------|------------|
+| [Root](https://www.rootapp.com/) | 🔒 Closed | ☁ SaaS | 🔐 TLS | No E2EE, Collects user data! |
+| [VoltChat](https://voltagechat.app/) | 🟢 Open | 🌐 Federated | 🔐 TLS • E2EE | Asks for age verification | 
 
 ## 🚧 In early development
 | App | Source | Hosting | Encryption | Notes |
@@ -47,6 +51,7 @@ Just start by inviting your friends to a better and safer longterm environment.
 ##  ⚠ Not Recommended for casual discord users
 | App | Source | Hosting | Encryption | Notes |
 |------|--------|---------|------------|------------|
+| [Element (Matrix)](https://element.io/) | 🟢 Open | 🌐 Federated + Self-hostable | 🔐 Full E2EE (Olm/Megolm) | Not casual-friendly |
 | [TeamSpeak](https://www.teamspeak.com/) | 🔒 Closed | 🏠 Self-host | 🔐 TLS • AES voice | Server can decrypt audio |
 | [Fluux (XMPP)](https://github.com/processone/fluux-messenger/) | 🟢 Open | 🌐 Federated + self-hostable | 🔐 TLS • Optional E2EE | Not casual-friendly |
 | [Mumble](https://www.mumble.info/) | 🟢 Open | 🏠 Self-host | 🔐 TLS (Server can decrypt), Not true E2EE | Not casual-friendly |
@@ -54,7 +59,7 @@ Just start by inviting your friends to a better and safer longterm environment.
 
 ----------------------------------------------------------------
 ✅ = Recommended  
-⚠️❗ = Not Recommended  
+🛑❗ = Not Recommended  
 ☑️ = Other Alternatives  
 ⚠ = Not Recommended for casual discord users  
 🟢 Open = Open source  
