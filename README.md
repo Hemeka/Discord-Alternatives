@@ -63,7 +63,7 @@ Just start by inviting your friends
 🛑❗ = Not Recommended  
 ☑️ = Other Alternatives  
 ⚠ = Not Recommended for casual discord users  
-🚧 = In early development
+🚧 = In early development  
 🟢 Open = Open source  
 🔒 Closed = Proprietary  
 📄 Source-available = Not OSI open source  
