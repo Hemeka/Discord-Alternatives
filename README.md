@@ -2,12 +2,13 @@
 
 As of recent Discord controversy, many users seek to find a replacement for discord.  
 Here is somewhat a quick list you can find on the web, that would help you to get familiar with options.  
-Some alternatives are still in early development, so they do lack features.  
+
+These alternatives are still in very early alpha development, and does need time so they do lack many features.  
 As time goes on, you want to use the one that doesn't slow and stagnate development  
 and doesn't take the same trajectory as discord did.  
 
-Tip, you don't have to abandon discord if you have large communities  
-Just start by inviting your friends to a better and safer longterm environment.   
+Tip, you don't have to abandon discord  
+Just start by inviting your friends  
 
 ----------------------------------------------------------------
 ## 🔎 Quick Comparison
@@ -15,21 +16,21 @@ Just start by inviting your friends to a better and safer longterm environment.
 ## ✅ Recommended
 | App | Source | Hosting | Encryption | Notes |
 |------|--------|---------|------------|------------|
-| [Kloak](https://kloak.app/)✅ | 🔒 Closed (for now) | ☁ Centralized | 🔐 TLS • E2EE (DMs – WIP) | Anonymity and Highest privacy |
-| [Fluxer](https://fluxer.app/)✅ | 🟢 Open (AGPL) | 🏠 Self-hostable | 🔐 TLS | Privacy-focused, no default E2EE |
-| [Stoat](https://stoat.chat/)✅ | 🟢 Open | 🏠 Self-hostable | 🔐 TLS | Community-driven, no default E2EE |
+| [Kloak](https://kloak.app/)✅🚧 | 🔒 Closed (for now) | ☁ Centralized | 🔐 TLS • E2EE (DMs – WIP) | Anonymity and Highest privacy |
+| [Fluxer](https://fluxer.app/)✅🚧 | 🟢 Open (AGPL) | 🏠 Self-hostable | 🔐 TLS | Privacy-focused, no default E2EE |
+| [Stoat](https://stoat.chat/)✅🚧 | 🟢 Open | 🏠 Self-hostable | 🔐 TLS | Community-driven, no default E2EE |
 
 ## ☑️ Other Alternatives
 | App | Source | Hosting | Encryption | Notes |
 |------|--------|---------|------------|------------|
-| [Nerimity](https://nerimity.com/) | 🟢 Open (partial) | ☁ Centralized | 🔐 TLS | Hobby project |
-| [DCTS](https://github.com/hackthedev/dcts-shipping) | 🟢 Open | 🏠 Self-hostable | 🔐 TLS • E2EE on desktop DMs | Community-driven |
+| [Nerimity](https://nerimity.com/)🚧 | 🟢 Open (partial) | ☁ Centralized | 🔐 TLS | Hobby project |
+| [DCTS](https://github.com/hackthedev/dcts-shipping)🚧 | 🟢 Open | 🏠 Self-hostable | 🔐 TLS • E2EE on desktop DMs | Community-driven |
 
 ## 🛑❗ Not Recommended
 | App | Source | Hosting | Encryption | Notes |
 |------|--------|---------|------------|------------|
-| [Root](https://www.rootapp.com/) | 🔒 Closed | ☁ SaaS | 🔐 TLS | No E2EE, Collects user data! |
-| [VoltChat](https://voltagechat.app/) | 🟢 Open | 🌐 Federated | 🔐 TLS • E2EE | Asks for age verification | 
+| [Root](https://www.rootapp.com/)🚧 | 🔒 Closed | ☁ SaaS | 🔐 TLS | No E2EE, Collects user data! |
+| [VoltChat](https://voltagechat.app/)🚧 | 🟢 Open | 🌐 Federated | 🔐 TLS • E2EE | Asks for age verification | 
 
 ## 🚧 In early development
 | App | Source | Hosting | Encryption | Notes |
@@ -62,6 +63,7 @@ Just start by inviting your friends to a better and safer longterm environment.
 🛑❗ = Not Recommended  
 ☑️ = Other Alternatives  
 ⚠ = Not Recommended for casual discord users  
+🚧 = In early development
 🟢 Open = Open source  
 🔒 Closed = Proprietary  
 📄 Source-available = Not OSI open source  
@@ -73,23 +75,6 @@ Just start by inviting your friends to a better and safer longterm environment.
 🔐 Full E2EE = True end-to-end encryption  
 ❌ None = No verified encryption  
 ❓ Unverified = Not publicly documented 
-
-----------------------------------------------------------------
-
-Couple of personal thoughts  
-Reviewing the list, the top contenders seems to be Kloak, Fluxer and Stoat  
-
-Starting with Stoat, European-based it has been longer than the other two, but because it is community driven project the updates and features do take longer to be implemented, resulting in slower development.  
-
-Second is Fluxer, solo-developed(Vibecoded) by a Swedish university student appearing very quickly since discord announcement of id verifications, at first glance it is way more polished   looking and does seem to be a great alternative, but being a bit sceptic here due to a big amount of monetization from the day 1, e.g. Plutonium, Donations, Founder tier  
-I do wish them goodluck, but would hold back from donating for now  
-
-And lastly the most inovative and promising one Kloak,  [https://www.youtube.com/watch?v=Az2Yf8_oYSU](https://www.youtube.com/watch?v=Az2Yf8_oYSU)
-appearing this January, Swedish founder, european indie team, hosted in France servers, they go by totally 180 philosophy than discord, being completely anonymous and private  messaging app, that never asks for your email, phone, id nor password.  
-having a great and useful things like  
-Revamped seamless intuitive UI, media channels!(for them image boards), horizontal servers!, daily updates,  with desktop app coming this March!  
-
-
 
 ----------------------------------------------------------------
 ## Other sources  
