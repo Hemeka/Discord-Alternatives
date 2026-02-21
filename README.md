@@ -48,8 +48,10 @@ Just start by inviting your friends
 | [VoltChat](https://voltagechat.app/) | 🟢 Open | 🌐 Federated | 🔐 TLS • E2EE | Asks for age verification | 
 | [Valour](https://valour.gg/) | 🟢 Open | ☁ Centralized | ❓ Unverified | Early development | 
 | [Silenced](https://silenced.app/) | 🔒 Closed  | ☁ Centralized | 🔐 E2EE | Early development | 
+| [ChatBap](https://chatbap.com/) | 🔒 Closed  | ☁ Centralized | 🔐 TLS | Early development | 
+| [Pulse](https://plse.chat/) | 🔒 Closed  | ☁ Centralized | 🔐 TLS + E2EE | Early development | 
 
-##  ⚠ Not Recommended for casual discord users
+##  ⚠ Popular, but Not Recommended for casual discord users
 | App | Source | Hosting | Encryption | Notes |
 |------|--------|---------|------------|------------|
 | [Element (Matrix)](https://element.io/) | 🟢 Open | 🌐 Federated + Self-hostable | 🔐 Full E2EE (Olm/Megolm) | Not casual-friendly |
