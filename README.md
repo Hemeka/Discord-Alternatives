@@ -52,7 +52,7 @@ Just start by inviting your friends to a better and safer longterm environment.
 | App | Source | Hosting | Encryption | Notes |
 |------|--------|---------|------------|------------|
 | [Element (Matrix)](https://element.io/) | 🟢 Open | 🌐 Federated + Self-hostable | 🔐 Full E2EE (Olm/Megolm) | Not casual-friendly |
-| [TeamSpeak](https://www.teamspeak.com/) | 🔒 Closed | 🏠 Self-host | 🔐 TLS • AES voice | Server can decrypt audio |
+| [TeamSpeak](https://www.teamspeak.com/) | 🔒 Closed | 🏠 Self-host | 🔐 TLS • AES voice | Not casual-friendly Server can decrypt audio |
 | [Fluux (XMPP)](https://github.com/processone/fluux-messenger/) | 🟢 Open | 🌐 Federated + self-hostable | 🔐 TLS • Optional E2EE | Not casual-friendly |
 | [Mumble](https://www.mumble.info/) | 🟢 Open | 🏠 Self-host | 🔐 TLS (Server can decrypt), Not true E2EE | Not casual-friendly |
 | [Halloy (IRC)](https://halloy.chat/) | 🟢 Open | 🏠 Self-host | 🔐 TLS | Not casual-friendly |
