@@ -6,6 +6,9 @@ Here is somewhat a quick list you can find on the web, that would help you to ge
 These alternatives are still in very early alpha development, and does need time so they do lack many features.  
 As time goes on, you want to use the one that doesn't slow and stagnate development  
 and doesn't take the same trajectory as discord did.  
+Also keep in mind majority of these new apps poping out dailyu claiming to be discord replacements  
+Are ai vibecoded opportunistic hype cash grabs  
+Everyone is using AI, some less, some more.  
 
 Tip, you don't have to abandon discord  
 Just start by inviting your friends  
