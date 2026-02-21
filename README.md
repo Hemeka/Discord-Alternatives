@@ -45,7 +45,6 @@ Just start by inviting your friends
 | [Tensamin](https://tensamin.net/) | 🟢 Open | 🔄 Hybrid | 🔐 E2EE | Hybrid (self + central) |
 | [GameVox](https://gamevox.com/) | 🔒 Closed | ☁ Centralized | ❌ None verified | Early development |
 | [Uncord](https://uncord.chat/) | 🟢 Open | 🏠 Self-hostable | ❓ Unverified | Early development |
-| [VoltChat](https://voltagechat.app/) | 🟢 Open | 🌐 Federated | 🔐 TLS • E2EE | Asks for age verification | 
 | [Valour](https://valour.gg/) | 🟢 Open | ☁ Centralized | ❓ Unverified | Early development | 
 | [Silenced](https://silenced.app/) | 🔒 Closed  | ☁ Centralized | 🔐 E2EE | Early development | 
 | [ChatBap](https://chatbap.com/) | 🔒 Closed  | ☁ Centralized | 🔐 TLS | Early development | 
