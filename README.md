@@ -49,7 +49,7 @@ Just start by inviting your friends
 | [Sharkord](https://sharkord.com/) | 🟢 Open | 🏠 Self-hostable | 🔐 TLS (text) • SRTP (voice) | No verified E2EE |
 | [Echoed](https://echoed.gg/) | 🔒 Closed | ☁ Centralized | 🔐 TLS | No E2EE |
 | [Spacebar](https://spacebar.chat/) | 🟢 Open | 🏠 Self-hostable | 🔐 TLS | Early development |
-| [Haven](https://github.com/ancsemi/Haven) | 📄 Source-available | 🏠 Self-hostable | 🔐 E2EE (DMs) | Non-OSI license |
+| [Haven](https://github.com/ancsemi/Haven) | 🟢 Open | 🏠 Self-hostable | 🔐 E2EE (DMs) | AGPL-3.0 license |
 | [Tensamin](https://tensamin.net/) | 🟢 Open | 🔄 Hybrid | 🔐 E2EE | Hybrid (self + central) |
 | [Uncord](https://uncord.chat/) | 🟢 Open | 🏠 Self-hostable | ❓ Unverified | Early development |
 | [Valour](https://valour.gg/) | 🟢 Open | ☁ Centralized | ❓ Unverified | Early development | 
