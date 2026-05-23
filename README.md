@@ -30,7 +30,8 @@ Just start by inviting your friends
 |------|--------|---------|------------|------------|
 | [Nerimity](https://nerimity.com/)🚧 | 🟢 Open (partial) | ☁ Centralized | 🔐 TLS | Hobby project |
 | [DCTS](https://github.com/hackthedev/dcts-shipping)🚧 | 🟢 Open | 🏠 Self-hostable | 🔐 TLS • E2EE on desktop DMs | Community-driven |
-| [GameVox](https://gamevox.com/) | 🔒 Closed | ☁ Centralized + 🏠 Self-hostable | 🔐 TLS • E2EE (voice) | Open beta, self-hosting available |
+| [GameVox](https://gamevox.com/)🚧 | 🔒 Closed | ☁ Centralized + 🏠 Self-hostable | 🔐 TLS • E2EE (voice) | Open beta, self-hosting available |
+| [Weered](https://weered.ca)🚧 | 🔒 Closed | ☁ Centralized | 🔐 TLS | Lobby-first design with real game-API integrations  |
   
   
 ## 🛑❗ Not Recommended
