@@ -20,7 +20,6 @@ Just start by inviting your friends
 ## ✅ Recommended
 | App | Source | Hosting | Encryption | Notes |
 |------|--------|---------|------------|------------|
-| [Kloak](https://kloak.app/)✅🚧 | 🔒 Closed (for now) | ☁ Centralized | 🔐 TLS • E2EE (DMs – WIP) | Anonymity and Highest privacy |
 | [Fluxer](https://fluxer.app/)✅🚧 | 🟢 Open (AGPL) | 🏠 Self-hostable | 🔐 TLS | Privacy-focused, no default E2EE |
 | [Stoat](https://stoat.chat/)✅🚧 | 🟢 Open | 🏠 Self-hostable | 🔐 TLS | Community-driven, no default E2EE |
   
